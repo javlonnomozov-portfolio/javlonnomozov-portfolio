@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @javlonnomozov-portfolio
+- 👋 Hi, I’m Javlon Nomozov
 - 👀 I’m interested in creating helpfull projects to mini businesses
 - 🌱 I’m currently learning Next.js and Nest.js
 - 💞️ I’m looking to collaborate on both FrontEnd and BackEnd developers
