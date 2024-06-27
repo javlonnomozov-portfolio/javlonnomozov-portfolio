@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Next.js and Nest.js
 - 💞️ I’m looking to collaborate on both FrontEnd and BackEnd developers
 - 📫 How to reach me: <a href="mailto:javlonnomozov.portfolio@gmail.com">javlonnomozov.portfolio@gmail.com<a/>
-- 😄 Pronouns: Uzbek
+<!--- - 😄 Pronouns: Uzbek --->
 - ⚡ Fun fact: I love people to love my projects and find helpfull 
 
 <!---
