@@ -1,3 +1,4 @@
+
 /* btn-white-blur button */
 .btn-white-blur {
   all: unset;
@@ -15,20 +16,19 @@
   align-items: center;
   justify-content: center;
   white-space: nowrap;
-  -moz-user-select: none;
-       user-select: none;
+  user-select: none;
   -webkit-user-select: none;
   touch-action: manipulation;
 }
 
 .btn-white-blur::after,
 .btn-white-blur::before {
-  content: "";
+  content: '';
   position: absolute;
   bottom: 0;
   right: 0;
   z-index: -99999;
-  transition: all 0.4s;
+  transition: all .4s;
 }
 
 .btn-white-blur::before {
@@ -43,7 +43,7 @@
   transform: translate(10px, 10px);
   width: 35px;
   height: 35px;
-  background: rgba(255, 255, 255, 0.0823529412);
+  background: #ffffff15;
   backdrop-filter: blur(5px);
   -webkit-backdrop-filter: blur(5px);
   border-radius: 50px;
@@ -66,21 +66,3 @@
   transition: 0s;
   transform: translate(0, 5%);
 }
-
-body {
-  height: 100vh;
-  width: 100%;
-}
-
-.clr {
-  clear: both;
-}
-
-ul, ol {
-  list-style: none;
-}
-
-#navbar.blue {
-  color: #FFF;
-  background-color: #213799;
-}/*# sourceMappingURL=main.css.map */

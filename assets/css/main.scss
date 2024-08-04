@@ -1,0 +1,41 @@
+@import "base/buttons.scss";
+
+$clr-dark-blue: #1A213E;
+$clr-primary: #213799;
+$clr-blue-100: #113AF0;
+$clr-blue-200: #4768FA;
+$clr-yellow: #FDC638;
+$clr-purple: #772174;
+$clr-pink: #DD3DD7;
+$clr-dark-grey: #184652;
+$clr-dark-100: #545353;
+$clr-grey-200: #828282;
+$clr-grey-300: #C0C0C0;
+$clr-white: #FFF;
+$clr-white-100: #F7F7F7;
+$clr-white-200: #F5F5E7;
+$clr-white-300: #CCCCCC;
+
+$bg-lin-dark-blue: linear-gradient(-45deg, $clr-dark-grey 36%, $clr-dark-blue 100%);
+
+body{
+    height: 100vh;
+    width: 100%;
+}
+
+.clr{
+    clear: both;
+}
+
+ul,ol{
+    list-style: none;
+}
+
+@mixin navbar{
+
+}
+
+#navbar.blue{
+    color: $clr-white;
+    background-color: $clr-primary;
+}
